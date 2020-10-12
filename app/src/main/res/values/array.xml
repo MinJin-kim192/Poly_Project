@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_array">
+        <item>막걸리</item>
+        <item>약주</item>
+        <item>과실주</item>
+        <item>증류주</item>
+        <item>기타주류</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453610038262",
+    "firebase_url": "https://poly-project-e0bce.firebaseio.com",
+    "project_id": "poly-project-e0bce",
+    "storage_bucket": "poly-project-e0bce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453610038262:android:bbbe413f61ae3d34e9ddd7",
+        "android_client_info": {
+          "package_name": "com.poly.minjin.poly_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453610038262-k9pcq15bv1ggkg42ge2c6q7rb82n0t7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poly.minjin.poly_project",
+            "certificate_hash": "d22578bab88c337161ef826e4b6041e77a93438a"
+          }
+        },
+        {
+          "client_id": "453610038262-rq7kbdhcf2e6c7tjid8akln9u179188q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvuhfKSvaKNxB4bvMTvptHW0kfTpGhabc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453610038262-rq7kbdhcf2e6c7tjid8akln9u179188q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

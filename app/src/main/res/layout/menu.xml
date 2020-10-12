@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#8E9EFB"
+    android:orientation="horizontal"
+    android:weightSum="5">
+
+    <TextView
+        android:id="@+id/home"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/bot_home_tab_selecter"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="home"
+        android:textColor="#FFF" />
+
+    <TextView
+        android:id="@+id/search"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/bot_search_tab_selecter"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="search"
+        android:textColor="#FFF" />
+
+    <TextView
+        android:id="@+id/star"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/bot_evaluation_tab_selecter"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="rating"
+        android:textColor="#FFF"
+
+        />
+
+    <TextView
+        android:id="@+id/heart"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/bot_social_tab_selecter"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="social"
+        android:textColor="#FFF" />
+
+
+    <TextView
+        android:id="@+id/person"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/bot_mypage_tab_selecter"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="setting"
+        android:textColor="#FFF"
+
+        />
+
+
+</LinearLayout>
